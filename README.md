@@ -6,7 +6,7 @@ UI Clone Home Page - Dropbox
 </h1>
 
 <p align="center">
-  <a href="https://github.com/vtorres96/clone-product-page-mercado-livre/graphs/contributors">
+  <a href="https://github.com/vtorres96/clone-dropbox-homepage/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-twitch-app?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
   </a>
 </p>
